@@ -1,0 +1,5 @@
+bipag - Bills, item prices and accounts with gnumeric
+
+Workbooks need to be launched in one command in a specified order to work.
+The launch script can be executed to launch the workbooks.
+This is a template that can be reused for many accounts as you want.

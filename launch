@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gnumeric prices.gnumeric bills.gnumeric account.gnumeric
