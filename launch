@@ -1,3 +1,4 @@
 #!/bin/bash
 
+#Remember to close workbooks in the following order account bills and finally prices
 gnumeric $(dirname $_)/prices.gnumeric $(dirname $_)/bills.gnumeric $(dirname $_)/account.gnumeric
